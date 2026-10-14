@@ -1,0 +1,5 @@
+streamlit
+matplpotlib
+pandas
+scikit-learn
+numpy
